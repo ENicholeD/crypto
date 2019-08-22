@@ -1,0 +1,22 @@
+body {
+  text-align: center;
+  background-image: url("../img/uni.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  color: #CD90C4;
+}
+.jumbotron{
+  background-color: transparent;
+}
+h1 {
+  font-size: 100px;
+  font-family: fantasy;
+}
+label {
+  font-size: 25px;
+  background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);   -webkit-background-clip: text;
+  color: transparent;
+}
+button {
+  background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+}
